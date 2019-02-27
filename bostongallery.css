@@ -1,0 +1,19 @@
+body {
+	background-color: green;
+	font-family: 'Luckiest Guy', cursive;
+
+
+}
+
+h1 { text-align: center; }
+
+
+.kep { display: flex;
+	flex-wrap: wrap;
+}
+
+img { border: 2px black solid;
+	margin:0px; 
+transition: all 0.5s;}
+img:hover {transform: scale(1.1);}
+

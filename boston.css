@@ -1,0 +1,29 @@
+body {
+	font-family: 'Luckiest Guy', cursive;
+	background-image: url(https://gfnc1kn6pi-flywheel.netdna-ssl.com/wp-content/uploads/2018/08/boston-terrier-long.jpg);
+	background-size: cover;	 
+
+}
+
+p {text-align: justify;
+font-size: 24px;
+margin: 30px;
+color: rgb(255, 0, 0);
+}
+
+h1 {text-align: left;
+}
+
+a {color: black;
+text-decoration: none;
+margin: 30px;}
+
+.dropdown { margin: 20px;
+color: red;
+text-align: center;}
+
+.btn {color: red;
+background-color: black;
+}
+
+.btn:hover {background-color: black;}
